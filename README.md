@@ -1,7 +1,14 @@
 
-<h1 align='center'> <img src='midia/Untitled_logo_3_free-file-removebg-preview.png'>
+<h1 align='center'> <img src='midia/Untitled_logo_3_free-file-removebg-preview-transformed.png'>
 <p>SurfBan</p></h1>
-<a href='https://henriquescloud.github.io/LOGIN-PAGE/index.html' align='center'><img src='midia/print%20tela.png'></a>
+
+
+<p align='center'><img src='midia/print_tela-transformed.png' ></p>
+
+<p align='center'><button ><a href='https://henriquescloud.github.io/LOGIN-PAGE/index.html' > ACESSAR </a></button></p>
+
+
+
 
 <div align='left'>
 <h2 align='center'>🌊🏄 Apresentando a tela de login de tirar o fôlego do SurfBan! 🌊🏄</h2><br><br>
