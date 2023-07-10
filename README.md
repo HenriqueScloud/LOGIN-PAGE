@@ -38,5 +38,4 @@
 </h2>
 <br>
 
-<p>[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,)](https://skillicons.dev)</p>
-
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,)](https://skillicons.dev)
