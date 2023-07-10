@@ -11,7 +11,7 @@
 
 
 <div align='left'>
-<h2 align='center'>🌊🏄 Apresentando a tela de login de tirar o fôlego do SurfBan! 🌊🏄</h2><br><br>
+<h2 align='center'>🌊🏄 Apresentando a tela de login de tirar o ar do SurfBan! 🌊🏄</h2><br><br>
 
 <p>🔥 Imagine entrar no seu projeto com estilo e facilidade, tudo com uma tela de login desenvolvida por mim, utilizando HTML5 e CSS3, para impressionar! Com a tela de login do SurfBan, você vai surpreender seus usuários e garantir uma experiência de login fácil, rápida e segura.</p>
 
