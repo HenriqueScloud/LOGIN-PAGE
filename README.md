@@ -13,7 +13,7 @@
 <div align='left'>
 <h2 align='center'>🌊🏄 Apresentando a tela de login de tirar o ar do SurfBan! 🌊🏄</h2><br><br>
 
-<p>🔥 Imagine entrar no seu projeto com estilo e facilidade, tudo com uma tela de login desenvolvida por mim, utilizando HTML5 e CSS3, para impressionar! Com a tela de login do SurfBan, você vai surpreender seus usuários e garantir uma experiência de login fácil, rápida e segura.</p>
+<p>🔥 Com a implementação cuidadosa de uma tela de login desenvolvida por mim, utilizando as tecnologias HTML5 e CSS3, você pode proporcionar aos usuários do seu projeto uma experiência de entrada com estilo e facilidade. A tela de login do SurfBan, criada com atenção aos detalhes, busca impressionar seus usuários ao oferecer um processo de autenticação ágil, intuitivo e seguro.</p>
 
 <p>🎯 Com o objetivo de aprimorar a presença online e criar uma experiência visualmente profissional para o site oficial da Escola de Surf SurfBan, desenvolvemos um projeto personalizado que combina estética profissional e coerência com a marca.</p><br>
 
