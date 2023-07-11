@@ -38,7 +38,7 @@
     ✅ Experiência incrível do usuário:
     Com uma interface amigável, elementos visuais deslumbrantes e uma navegação intuitiva, a tela de login do SurfBan que desenvolvi garante uma experiência de login simples e visualmente cativante para seus usuários.
 </p>
-<hr>
+
 
 <h2>
     💻✍️ Tecnologias:
